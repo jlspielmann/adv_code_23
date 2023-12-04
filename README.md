@@ -9,3 +9,7 @@ Please don't copy my code:
 * be completely bonkers in multtitudes of other ways
 
 You've been warned!
+
+To run a day, run the following command:
+cargo run --bin day-xx
+
