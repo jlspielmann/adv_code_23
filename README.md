@@ -1,4 +1,4 @@
-# adv_code_23
+# aoc 23
 Hi, I'm learning rust by doing the Advent of Code 2023.
 
 https://adventofcode.com/2023/
